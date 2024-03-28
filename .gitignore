@@ -2,3 +2,6 @@
 *.xlsx
 opts.py
 generate_data.py
+.DS_Store
+.gitattributes
+__pycache__/generate_data.cpython-39.pyc
